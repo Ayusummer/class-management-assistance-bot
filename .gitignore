@@ -1,6 +1,7 @@
 # 配置文件
 .vscode
 .idea
+.run
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,4 +132,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 
